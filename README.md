@@ -18,5 +18,5 @@ sudo apt install neovim
 
 -
 
-- Copy the repo to `~/.config/nvim/` in linux and `$env:LOCALAPPDATA\nvim\` in windows
+- Copy the latest release to `~/.config/nvim/` in linux and `$env:LOCALAPPDATA\nvim\` in windows
 
